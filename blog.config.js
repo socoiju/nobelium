@@ -1,9 +1,9 @@
 const BLOG = {
   title: 'SOCOI',
-  author: 'socoi',
+  author: '浮空',
   email: 'socoi.ju@gmail.com',
   link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  description: '轻霭浮空',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'light', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
